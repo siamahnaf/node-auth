@@ -1,3 +1,5 @@
+<img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1704611347/logo_w4vxp0.png" width="100" height="100" style="display: block; margin: 0 auto;">
+
 # Node js Authentication System
 
 ## A rest api for authentication with number and otp(one time password)
